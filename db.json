@@ -1,7 +1,7 @@
 {
   "setting": {
-    "vkl_posting": "true",
-    "pause": "true",
+    "vkl_posting": "on",
+    "pause": "",
     "ad_pause": 5
   }
 }
